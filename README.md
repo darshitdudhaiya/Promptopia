@@ -25,7 +25,7 @@ pnpm dev
 
 ### Project URL
 
-- [Promtopia Application]([https://example.com](https://project-promptopia-p0m9bjz4e-darshitdudhaiya.vercel.app/)
+- [Promtopia Application](https://project-promptopia-p0m9bjz4e-darshitdudhaiya.vercel.app/)
 
 ### Author
 
